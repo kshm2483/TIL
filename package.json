@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "name": "blog",
+  "version": "1.0.0",
+  "author": "kshm2483 <kshm2483@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
